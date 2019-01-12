@@ -1,0 +1,5 @@
+*.png
+.svn/
+*.dat
+octave-workspace
+*.mp4
